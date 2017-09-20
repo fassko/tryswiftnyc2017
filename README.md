@@ -97,6 +97,7 @@ Soroush Khanlou
 ### Better Swift From the Foundation up
 Carl Brown
 * Slides https://www.slideshare.net/carlbrown/better-swift-from-the-foundation-up-tryswiftnyc17-0906
+* https://github.com/carlbrown/SwiftPRInsights
 
 ### Everyone is your user
 Julio Carrettoni
