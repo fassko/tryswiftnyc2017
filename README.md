@@ -26,6 +26,7 @@ Neem Serra
   
 ### Driving view state through data for fun and/or debugging
 Matt Gallagher
+* https://github.com/mattgallagher/clocks
 
 ### Core Data Migrations and can we do better?
 Priya Rajagopal
@@ -66,6 +67,7 @@ Krunoslav Zaher
 
 ### Exploring Natural Language Processing
 Paola Mata
+* https://github.com/pmatanyc/NLPDemo
 
 ### Swift 4 Codable
 Yasuhiro Inami
@@ -89,6 +91,7 @@ Sonam Dhingra
 
 ### Error handling made easy
 Helen Papanikolopoulou & Kostas Kremizas
+* https://github.com/Workable/swift-error-handler
 
 ### Sudoku Playgrounds
 Soroush Khanlou
@@ -102,3 +105,9 @@ Carl Brown
 ### Everyone is your user
 Julio Carrettoni
 
+
+## Blog posts
+* https://blog.derrickshowers.com/post/try-swift-2017/
+* https://medium.com/ios-os-x-development/try-swift-nyc-2017-25e0f3b8e1ea
+* https://bmcurutan.wordpress.com/2017/09/10/event-reflections-try-swift-nyc/
+* https://medium.com/@jp_pancake/try-swift-nyc-2017-tryswiftnyc-ce3eab349914
