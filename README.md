@@ -57,16 +57,47 @@ Tanner Nelson
 * http://vapor.codes/
 
 
+
 # September 6 - Day 2
 
 ### Modern RxSwift Architectures
+Krunoslav Zaher
+* https://github.com/ReactiveX/RxSwift
+
 ### Exploring Natural Language Processing
+Paola Mata
+
 ### Swift 4 Codable
+Yasuhiro Inami
+https://speakerdeck.com/inamiy/swift-4-codable-try-swift-nyc-2017
+
 ### Ship your mobile app in less than 10 minutes!
+Dennis Pilarinos
+* https://www.buddybuild.com/
+
 ### Machine Ethics and Emerging Technologies
+Paul Fenwick
+
 ### Getting started with ARKit + tips and tricks
+Glenna Buford
+* Slides https://speakerdeck.com/glenna/arkit-tips-plus-tricks
+* https://github.com/glenna/arkit-demo
+
 ### Building a framework with Viper
+Sonam Dhingra
+* https://github.com/ustwo/videoplayback-ios
+
 ### Error handling made easy
-### Driving view state through data for fun and/or debugging
+Helen Papanikolopoulou & Kostas Kremizas
+
+### Sudoku Playgrounds
+Soroush Khanlou
+* https://github.com/khanlou/swift-sudoku
+
 ### Better Swift From the Foundation up
+Carl Brown
+* Slides https://www.slideshare.net/carlbrown/better-swift-from-the-foundation-up-tryswiftnyc17-0906
+
 ### Everyone is your user
+Julio Carrettoni
+
