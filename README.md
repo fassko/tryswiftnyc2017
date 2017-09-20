@@ -24,10 +24,18 @@ Try! Swift NYC 2017 conference materials
 Neem Serra
 * Slides: https://www.slideshare.net/NeemSerra/map-and-flat-map-magic
   
-### Practical Machine Learning for your iOS App
+### Driving view state through data for fun and/or debugging
+Matt Gallagher
+
 ### Core Data Migrations and can we do better?
+Priya Rajagopal
+
+
 ### Improving Swift Tools with libSyntax
+Harlan Haskins
+
 ### A Funny Thing Happened On The Way To This Array
+Erica Sadun
 
 ### MVVM at scale - not so simple...
 Nataliya Patsovska
@@ -35,9 +43,18 @@ Nataliya Patsovska
 * Slides: https://www.slideshare.net/NataliyaPatsovska/mvvm-at-scale-not-so-simple-tryswift-nyc17
 
 ### Creating Rich Custom UI Notifications
+Craig Clayton
+https://www.slideshare.net/thedevme/creating-rich-custom-ui-notifications
+
 ### The Role of being Technical in Technical Leadership
+Camille Fournier
+
 ### Swift Chatbots for Fun! and Profit?
+Ray Tsaihong
+
 ### Server-side Swift Using Vapor
+Tanner Nelson
+* http://vapor.codes/
 
 
 # September 6 - Day 2
