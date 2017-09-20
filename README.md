@@ -5,7 +5,8 @@ Try! Swift NYC 2017 conference materials
 # September 4 - Workshops
 
 ## Building an Interactive iMessage App
-  https://github.com/thedevme/tryswiftimessage
+  Craig Clayton
+  * https://github.com/thedevme/tryswiftimessage
   
 ## Conference Proposal Writing
 ## RxSwift: Reactive Programming in Swift
@@ -17,13 +18,22 @@ Try! Swift NYC 2017 conference materials
 # September 5 - Day 1
 
 ##  Flexible View Controller Interfaces with Swift 4
+  James Dempsey
+
 ### Map and FlatMap Magic
+Neem Serra
+* Slides: https://www.slideshare.net/NeemSerra/map-and-flat-map-magic
+  
 ### Practical Machine Learning for your iOS App
 ### Core Data Migrations and can we do better?
-### Sponsored Demo
 ### Improving Swift Tools with libSyntax
 ### A Funny Thing Happened On The Way To This Array
+
 ### MVVM at scale - not so simple...
+Nataliya Patsovska
+* https://github.com/nataliq/TripCheckins
+* Slides: https://www.slideshare.net/NataliyaPatsovska/mvvm-at-scale-not-so-simple-tryswift-nyc17
+
 ### Creating Rich Custom UI Notifications
 ### The Role of being Technical in Technical Leadership
 ### Swift Chatbots for Fun! and Profit?
