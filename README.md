@@ -37,6 +37,7 @@ Harlan Haskins
 
 ### A Funny Thing Happened On The Way To This Array
 Erica Sadun
+* Book https://pragprog.com/book/esswift/swift-style
 
 ### MVVM at scale - not so simple...
 Nataliya Patsovska
@@ -49,6 +50,7 @@ https://www.slideshare.net/thedevme/creating-rich-custom-ui-notifications
 
 ### The Role of being Technical in Technical Leadership
 Camille Fournier
+* Book http://shop.oreilly.com/product/0636920056843.do
 
 ### Swift Chatbots for Fun! and Profit?
 Ray Tsaihong
@@ -56,6 +58,7 @@ Ray Tsaihong
 ### Server-side Swift Using Vapor
 Tanner Nelson
 * http://vapor.codes/
+* Guide https://www.linkedin.com/learning/learning-server-side-swift-with-vapor/
 
 
 
@@ -96,6 +99,7 @@ Helen Papanikolopoulou & Kostas Kremizas
 ### Sudoku Playgrounds
 Soroush Khanlou
 * https://github.com/khanlou/swift-sudoku
+* Video https://www.youtube.com/watch?v=7EaEkakTVZk
 
 ### Better Swift From the Foundation up
 Carl Brown
