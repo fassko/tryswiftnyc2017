@@ -66,7 +66,7 @@ Tanner Nelson
 
 ### Modern RxSwift Architectures
 Krunoslav Zaher
-* https://github.com/ReactiveX/RxSwift
+* https://github.com/kzaher/RxFeedback
 
 ### Exploring Natural Language Processing
 Paola Mata
