@@ -82,6 +82,7 @@ Dennis Pilarinos
 
 ### Machine Ethics and Emerging Technologies
 Paul Fenwick
+* Video: https://www.youtube.com/watch?v=9snMlhCU5ug
 
 ### Getting started with ARKit + tips and tricks
 Glenna Buford
