@@ -7,7 +7,7 @@ Try! Swift NYC 2017 conference materials
 ## Building an Interactive iMessage App
   Craig Clayton
   * https://github.com/thedevme/tryswiftimessage
-  
+
 ## Conference Proposal Writing
 ## RxSwift: Reactive Programming in Swift
 ## Contributing to Open Source Swift
@@ -23,7 +23,7 @@ Try! Swift NYC 2017 conference materials
 ### Map and FlatMap Magic
 Neem Serra
 * Slides: https://www.slideshare.net/NeemSerra/map-and-flat-map-magic
-  
+
 ### Driving view state through data for fun and/or debugging
 Matt Gallagher
 * https://github.com/mattgallagher/clocks
@@ -116,3 +116,4 @@ Julio Carrettoni
 * https://medium.com/ios-os-x-development/try-swift-nyc-2017-25e0f3b8e1ea
 * https://bmcurutan.wordpress.com/2017/09/10/event-reflections-try-swift-nyc/
 * https://medium.com/@jp_pancake/try-swift-nyc-2017-tryswiftnyc-ce3eab349914
+* https://medium.com/rocket-fuel/try-swift-nyc-2017-recap-5ad479179a1f
